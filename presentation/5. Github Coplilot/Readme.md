@@ -9,7 +9,9 @@ https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode
 https://code.visualstudio.com/docs/copilot/chat/copilot-edits
 https://code.visualstudio.com/docs/copilot/chat/inline-chat
 
-With a **paid subscription** to GitHub Copilot in **June 2025**, you get access to **premium AI models** for coding assistance. Here’s what’s included:
+With a **paid subscription** to GitHub Copilot in **June 2025**, you get access to **premium AI models** for coding assistance.
+
+https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot 
 
 ### **Available Models**
 - **GPT-4o** – Multimodal AI optimized for **code generation, debugging, and automation**.
