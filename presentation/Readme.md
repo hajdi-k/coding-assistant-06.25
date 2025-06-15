@@ -12,4 +12,10 @@
 
 4. Github Copilot - Ask, Agent, Edit [OPENWEATHER_API_KEY=xyz in .env in root]
 
+```
+npm install
+npm run build
+npm start
+```
+
 5. Azure Devops integrations, conclusion
